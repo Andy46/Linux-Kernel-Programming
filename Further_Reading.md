@@ -63,7 +63,7 @@ and why-nots of using Linux on an embedded system, hardware and software design 
 
 - [Lowlevel programming University, gurugio](https://github.com/gurugio/lowlevelprogramming-university)
 
-- *Tip (reprodcued from Chapter 5)*:  
+- *Tip (reproduced from Chapter 5)*:  
 "Is there a really practical hands-on tip, an almost guaranteed way to become a kernel hacker? Of course, keep reading this book! Ha ha, yes, besides, do partake in the [simply awesome Eudyptula Challenge](http://www.eudyptula-challenge.org/). Hang on, it's - very unfortuantely, and as of this writing - closed down.
 Fear not, [here's a site with all the challenges](https://github.com/agelastic/eudyptula) posted (and the solutions, don't cheat!); do check it out and try the challenges."
 
